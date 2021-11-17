@@ -1,0 +1,53 @@
+{
+  "msg": "This is English text",
+  "title": "English",
+
+  "appName" : "Attendance Application",
+  "childCode" : "Add Child Code",
+  "loginKey" : "Login",
+
+  "forgotPassword" : "Forgot Password",
+  "loginTitle" : "Log In",
+  "emailField" : "Email",
+  "passwordField" : "Password",
+
+  "teacherKey" : "Teacher",
+  "studentKey" : "Student",
+  "visitorKey" : "Visitor",
+
+  "teacherList" : "Teacher List",
+  "inKey" : "In",
+  "outKey" : "Out",
+
+  "classList" : "Class List",
+
+
+  "checkInTime" : "Check In Time ",
+  "checkOutTIme" : "Check Out Time ",
+  "temperatureKey" : "Temperature ",
+  "conditionsKey" : "Conditions ",
+  "senderKey" : "Sender ",
+  "recordButton" : "Record Temperature",
+  "cameraOpt" : "Camera",
+  "galleryOpt" : "Gallery",
+  "checkInButton" : "Check In",
+  "recordTempTitle" : "Record Temperature",
+
+  "illnessTitle" : "ILLNESS",
+  "stomachAche" : "STOMACH ACHE",
+  "slightFever" : "SLIGHT FEVER",
+  "redEyes" : "RED EYES",
+  "chickenPox" : "CHICKEN POX",
+  "highFever" : "HIGH FEVER",
+  "flu" : "FLU",
+  "other" : "Other Findings",
+
+  "nameInput" : "Name",
+  "contactInput" : "Contact",
+  "addressInput" : "Address",
+  "purposeInput" : "Purpose of Visit",
+  "temperatureInput" : "Temperature",
+  "cancelKey" : "Cancel",
+  "submitKey" : "Submit"
+
+}

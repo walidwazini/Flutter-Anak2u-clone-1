@@ -1,0 +1,52 @@
+{
+  "msg": "هذا نص باللغة العربية",
+  "title": "اللغة العربية",
+
+  "appName" : "تطبيق الحضور",
+  "childCode" : "Add Child Code",
+  "loginKey" : "تسجيل الدخول",
+
+  "forgotPassword" : "نسيت رقمك السري",
+  "loginTitle" : "تسجيل الدخول",
+  "emailField" : "البريد الإلكتروني",
+  "passwordField" : "كلمه السر",
+
+  "teacherKey" : "المعلم",
+  "studentKey" : "الطلاب",
+  "visitorKey" : "الزائرين",
+
+  "teacherList" : "Teacher List",
+  "inKey" : "In",
+  "outKey" : "Out",
+
+  "classList" : "Class List",
+
+  "checkInTime" : "وقت تسجيل الوصول :",
+  "checkOutTIme" : "Check Out Time ",
+  "temperatureKey" : "درجة الحرارة  :",
+  "conditionsKey" : "وضع حالة  :",
+  "senderKey" : "مرسل ",
+  "recordButton" : "تسجيل درجة الحرارة",
+  "cameraOpt" : "كاميرا",
+  "galleryOpt" : "معرض الصور",
+  "checkInButton" : "تحقق في",
+  "recordTempTitle" : "تسجيل درجة الحرارة",
+
+  "illnessTitle" : "Illness",
+  "stomachAche" : "ألم المعدة",
+  "slightFever" : "SLIGHT FEVER",
+  "redEyes" : "RED EYES",
+  "chickenPox" : "جدري الماء",
+  "highFever" : "HIGH FEVER",
+  "flu" : "أنفلونزا",
+  "other" : "Other Findings",
+
+
+  "nameInput" : "Name",
+  "contactInput" : "Contact",
+  "addressInput" : "Address",
+  "purposeInput" : "Purpose of Visit",
+  "temperatureInput" : "Temperature",
+  "cancelKey" : "إلغاء",
+  "submitKey" : "إرسال"
+}
